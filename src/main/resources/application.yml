@@ -1,0 +1,12 @@
+docusign.profile.name: Hello from client
+
+
+management.endpoints.web.exposure.include: "*"
+
+
+#spring:
+#  cloud:
+#    config:
+#      uri: http://localhost:8888
+
+
